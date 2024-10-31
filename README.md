@@ -1,8 +1,6 @@
-# React + Vite
+# E-commerce_web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Developed a fully functional e-commerce platform from scratch, utilizing React and Tailwind CSS.
+- Implemented responsive design principles to ensure accessibility across various devices.
+![Screenshot 2024-10-31 120802](https://github.com/user-attachments/assets/5478384d-f40b-4cd1-8301-c09477915799)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
